@@ -548,7 +548,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Groep6</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html#msg-box8-4y\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>Moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-4p\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-5k\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-6j\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html#msg-box8-4y\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>Moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-4p\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-5k\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-6j\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -936,7 +936,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Groep6</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html#msg-box8-4y\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>Moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-4p\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-5k\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-6j\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatie.html#msg-box8-4y\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>Moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-4p\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-5k\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-6j\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1115,6 +1115,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-58",
           "_params": {
             "paddingTop": "1",
@@ -1160,18 +1165,18 @@
           },
           "title": "TITEL",
           "text": "tekst",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-5b",
           "_params": {
             "paddingTop": "0",
@@ -1217,12 +1222,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "tekst",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -1253,6 +1253,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-6l",
           "_params": {
             "paddingTop": "1",
@@ -1298,18 +1303,18 @@
           },
           "title": "TITEL",
           "text": "tekst",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-5e",
           "_params": {
             "paddingTop": "0",
@@ -1355,12 +1360,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "tekst",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -1526,6 +1526,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-5g",
           "_params": {
             "paddingTop": "1",
@@ -1571,18 +1576,18 @@
           },
           "title": "TITEL",
           "text": "tekst",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-5h",
           "_params": {
             "paddingTop": "0",
@@ -1628,12 +1633,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "tekst",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -1664,6 +1664,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-5j",
           "_params": {
             "paddingTop": "1",
@@ -1709,12 +1714,7 @@
           },
           "title": "TITEL",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -2184,7 +2184,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-53114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-537.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2198,7 +2198,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-0115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-08.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2212,7 +2212,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-24116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-249.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2226,7 +2226,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-68117.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-6810.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2240,7 +2240,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-81118.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-8111.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2254,7 +2254,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-10119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-1012.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2268,7 +2268,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-83120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-8313.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2314,7 +2314,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-53114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-537.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2328,7 +2328,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-0115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-08.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2342,7 +2342,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-24116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-249.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2356,7 +2356,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-68117.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-6810.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2370,7 +2370,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-81118.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-8111.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2384,7 +2384,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-10119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-1012.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2398,7 +2398,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-83120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-8313.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2423,6 +2423,12 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "color": "#f3c649"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "1",
@@ -2477,13 +2483,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-6j",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "center",
-              "color": "#f3c649"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
