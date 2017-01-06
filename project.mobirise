@@ -835,7 +835,8 @@
     "start.html": {
       "settings": {
         "order": 1,
-        "title": "start"
+        "title": "verdraaidetijd",
+        "meta_descr": "Keuze of geen keuze, controle of geen controle..."
       },
       "components": [
         {
@@ -2184,7 +2185,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-537.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-5314.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2198,7 +2199,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-08.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-015.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2212,7 +2213,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-249.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-2416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2226,7 +2227,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-6810.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-6817.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2240,7 +2241,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-8111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-8118.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2254,7 +2255,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-1012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-1019.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2268,7 +2269,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-8313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-8320.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2314,7 +2315,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-537.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4661-2000x1329-5314.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2328,7 +2329,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-08.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4685-2000x1329-015.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2342,7 +2343,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-249.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4689-2000x1329-2416.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2356,7 +2357,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-6810.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4698-2000x1329-6817.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2370,7 +2371,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-8111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4704-2000x1329-8118.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2384,7 +2385,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-1012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4737-2000x1329-1019.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2398,7 +2399,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-8313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4741-2000x1329-8320.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
