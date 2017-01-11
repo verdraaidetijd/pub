@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 288,
+    "uniqCompNum": 291,
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file:///Users/ellenverhaegen/Desktop/M10",
@@ -59,10 +59,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -107,7 +107,7 @@
           "_anchor": "menu-4j",
           "_params": {
             "bgColor": "#212121",
-            "fontSize": "1.1",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -137,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Groep6</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#form1-6r\">Contact</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#msg-box8-6o\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-6w\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-6j\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#form1-6r\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#msg-box8-6o\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-6w\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#header3-7q\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -238,7 +238,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p>Tijd is een algemeen en oeroud begrip dat een zeer prominente plaats in ons leven kent. \nDoor de aanhoudende versnelling van de maatschappij en dus ook ons leven, wordt tijd steeds kostbaarder. We willen zoveel mogelijk verwezenlijken of uitvoeren in de weinige echt ‘vrije’ tijd die we hebben. We persen als het waren de overige tijd uit en vullen elke seconde in, wat zorgt voor een immense druk en het verlies van tijdsbesef. </p><p>\nDe mens probeert al lang vat te krijgen op de tijd. Het is een vast gegeven en we kunnen als mens veel, maar het verkorten of verlengen kunnen we niet. Het is een absoluut gedetermineerd gegeven, onaantastbaar en zo belangrijk voor ons. Daarom besloten we een object te ontwerpen waarbij we de tijd proberen te 'verdraaien'. Het verlies van tijd speelt hier ook een grote rol in.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In het </span><a href=\"voor.html\"><b>vooronderzoek</b></a><a href=\"vooronderzoek.html\" style=\"font-size: 1.07rem; background-color: rgb(33, 33, 33); line-height: 1.5;\"><b></b></a><span style=\"font-size: 1.07rem; line-height: 1.5;\"> wordt duidelijk gemaakt hoe we op ons centrale thema 'tijd' zijn gekomen.</span><br></p></blockquote>"
+          "text": "<blockquote><p>Tijd is een algemeen en oeroud begrip dat een zeer prominente plaats in ons leven kent. \nDoor de aanhoudende versnelling van de maatschappij en dus ook ons leven, wordt tijd steeds kostbaarder. We willen zoveel mogelijk verwezenlijken of uitvoeren in de weinige echt ‘vrije’ tijd die we hebben. We persen als het ware de overige tijd uit en vullen elke seconde in, wat zorgt voor een immense druk en het verlies van tijdsbesef. </p><p>\n</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De mens probeert al lang vat te krijgen op de tijd. Het is een vast gegeven en we kunnen als mens veel, maar de tijd verkorten of verlengen kunnen we niet. Het is een absoluut gedetermineerd gegeven, onaantastbaar en zo belangrijk voor ons. Daarom besloten we een object te ontwerpen waarbij we de tijd proberen te 'verdraaien'. Het verlies van tijd speelt hier ook een grote rol in.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In het </span><a href=\"voor.html\"><b>vooronderzoek</b></a><a href=\"vooronderzoek.html\" style=\"font-size: 1.07rem; background-color: rgb(33, 33, 33); line-height: 1.5;\"><b></b></a><span style=\"font-size: 1.07rem; line-height: 1.5;\"> wordt duidelijk gemaakt hoe we op ons centrale thema 'tijd' zijn gekomen.</span><br></p></blockquote>"
         },
         {
           "_inherit": "gallery1",
@@ -355,7 +355,7 @@
             "paddingBottom": "3",
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In het proces zal de werkwijze van beginidee tot uiteindelijke object getoond worden. Dit proces bestaat uit twee delen. In het </span><a href=\"start.html#msg-box8-57\"><b>ideeënproces</b></a><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"start.html#header3-6v\"><b></b></a> worden de eerste ideeën door middel van schetsen, schaalmodellen en foto's duidelijk gemaakt. Het <a href=\"start.html#msg-box8-6w\"><b>werkproces</b></a> wordt aan de hand van foto's en film weergegeven. Dit tweede deel laat het proces zien van houten plaat tot uiteindelijke object.</span></p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In het proces zal de werkwijze van beginidee tot uiteindelijke object getoond worden. Dit proces bestaat uit twee delen. In het </span><a href=\"start.html#msg-box8-57\"><b>ideeënproces</b></a><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"start.html#header3-6v\"><b></b></a> worden de eerste ideeën door middel van schetsen, schaalmodellen en foto's duidelijk gemaakt. Het <a href=\"start.html#msg-box8-6w\"><b>werkproces</b></a> wordt aan de hand van foto's en film weergegeven. Dit tweede deel laat het proces zien van houten plaat tot uiteindelijk object.</span></p></blockquote>"
         },
         {
           "_styles": {
@@ -486,7 +486,7 @@
             }
           },
           "title": "Tijd is relatief",
-          "text": "We namen de beslissing om het idee ‘tijd’ te verwerken in ons object. Vermits tijd breekbaar en waardevol is voor velen onder ons, wilden we letterlijk tijd aan een zijden draadje hangen (zie tweede schets). Tijd is op sommige plekken zeer prominent aanwezig en ontzettend belangrijk. Daarom dachten we al snel na over de plekken waar ons object eventueel zou kunnen staan. We wilden het plaatsen in een kerk, een mortuarium, een station, een justitiepaleis, een school. Allemaal gelegen in Antwerpen.",
+          "text": "We namen de beslissing om het idee ‘tijd’ te verwerken in ons object. Vermits tijd fragile en waardevol is voor velen onder ons, wilden we letterlijk tijd aan een zijden draadje hangen (zie tweede schets). Tijd is op sommige plekken zeer prominent aanwezig en ontzettend belangrijk. Daarom dachten we al snel na over de plekken waar ons object eventueel zou kunnen staan. We wilden het plaatsen in een kerk, een mortuarium, een station, een justitiepaleis, een school. Allemaal gelegen in Antwerpen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -548,8 +548,8 @@
               "size": 0
             }
           },
-          "title": "Tijd is&nbsp;breekbaar",
-          "text": "Tijd is niet tastbaar, behalve in een zandloper. Die heeft een bepaalde hoeveelheid tijd die je steeds kan verlengen door hem om te draaien. We wilden het concept van de zandloper in verwarring brengen door hem niet te laten omdraaien. Het zand zou voor eeuwig blijven doorlopen waardoor de zandloper zijn functie verliest. Doordat het zand steeds maar zwaarder wordt door op het onderste vlak te vallen, geeft het de impressie om de touwen die de constructie samen houden en die reeds beschadigd zijn, te doen breken. ",
+          "title": "Tijd is&nbsp;fragile",
+          "text": "Tijd is niet tastbaar, behalve in een zandloper. Die heeft een bepaalde hoeveelheid tijd die je steeds kan verlengen door hem om te draaien. We wilden het concept van de zandloper in verwarring brengen door hem niet te laten omdraaien. Het zand zou voor eeuwig blijven doorlopen waardoor de zandloper zijn functie verliest. Door de toename van het zand wordt de onderste plaat steeds zwaarder en geeft het de impressie dat de touwen die de constructie samen houden en die reeds beschadigd zijn, kunnen breken.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -634,7 +634,7 @@
             }
           },
           "title": "Water in plaats van zand?",
-          "text": "Het idee was om in het object het zand te vervangen door water. Water stroomt gemakkelijker dan zand en kan gemakkelijker terug opgepompt worden. Al snel werd duidelijk dat dit niet uitgevoerd kon worden omdat we er niet de mogelijkheden tot hadden. \nOnze techniek- en materialenkennis reikte niet ver genoeg.&nbsp;<br>We dachten al na over de verhoudingen van het object en de ooghoogte waar het water of zand zou doorstromen of -lopen.",
+          "text": "Het idee was om in het object het zand te vervangen door water. Water stroomt gemakkelijker dan zand en kan gemakkelijker terug opgepompt worden. Al snel werd duidelijk dat dit niet uitgevoerd kon worden omdat we er niet de mogelijkheden toe hadden. \nOnze techniek- en materialenkennis reikte niet ver genoeg.&nbsp;<br>We dachten al na over de verhoudingen van het object en de ooghoogte waar het water of zand zou doorstromen of -lopen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -653,7 +653,7 @@
             "paddingBottom": 1,
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p>We besloten om terug met zand te werken en een echte zandloper te maken die we konden omdraaien. Door verschillende vormen van piramides te schetsen, konden we beslissen welke soort piramide het beste tot stand kwam. Na de vormstudies besloten we om het voorlopige ontwerp in maquette te maken en uit te testen wat de verschillende mogelijkheden en uitzichten waren.</p><p>Onze eerste gedachte was om staal te gebruiken voor de uitvoering van ons object. Dit om de strakheid van de piramides extra in de verf te zetten.</p></blockquote>"
+          "text": "<blockquote><p>We besloten om terug met zand te werken en een echte zandloper te maken die we konden omdraaien. Door verschillende vormen van piramides te schetsen, konden we beslissen welke soort piramide het beste tot zijn recht kwam. Na de vormstudies besloten we om het voorlopige ontwerp in maquette te maken en uit te testen wat de verschillende mogelijkheden en uitzichten waren.</p><p>Onze eerste gedachte was om staal te gebruiken voor de uitvoering van ons object. Dit om de strakheid van de piramides extra in de verf te zetten.</p></blockquote>"
         },
         {
           "_inherit": "gallery1",
@@ -861,7 +861,7 @@
             }
           },
           "title": "De optische illusie",
-          "text": "We zijn afgestapt van de ingewikkelde installaties en opzoek gegaan naar een abstractere en vooral minder complexe structuur. We hebben verschillende ideeën uitgetekend. We zijn de verhoudingen gaan vaststellen van het object en hebben hier wat mee geëxperimenteerd.&nbsp;",
+          "text": "We zijn afgestapt van de ingewikkelde installaties en op zoek gegaan naar een abstractere en vooral minder complexe structuur. We hebben verschillende ideeën uitgetekend. We zijn de verhoudingen gaan vaststellen van het object en hebben hier wat mee geëxperimenteerd.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -922,7 +922,7 @@
             }
           },
           "title": "Twee piramides, twee verschillende groottes",
-          "text": "De schetsen laten een verborgen constructie zien waarbij twee piramides van verschillende grootte boven elkaar worden geplaatst. Hierdoor wordt er een optische illusie van instabiliteit en onwezenlijkheid gerecreëerd. ",
+          "text": "De schetsen laten een verborgen constructie zien waarbij twee piramides van verschillende grootte boven elkaar worden geplaatst. Hierdoor wordt er een optische illusie van instabiliteit en onwezenlijkheid gecreëerd. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1007,7 +1007,7 @@
             }
           },
           "title": "Abstract geheel",
-          "text": "Verhoudingen zijn een belangrijk detail waar een object mee valt of staat. De opening waardoor het zand zou vallen, stond op ooghoogte en dus perfect in het zicht. Ook de lengte van deze opening maakten we niet te lang zodat de focus niet verloren zou gaan.<br>Het feit dat de bovenste piramide kleiner is dan de onderste en een kwartslag gedraaid staat ten opzichte van de onderste piramide, maakt dat het een abstract ontwerp is. Daarbij komen nog eens de grote vleugels links en rechts van de piramides en het vormt een strak en abstract geheel.&nbsp;",
+          "text": "Verhoudingen zijn een belangrijk detail waar een object mee valt of staat. De opening waardoor het zand zou vallen, stond op ooghoogte en dus perfect in het zicht. Ook de lengte van deze opening maakten we niet te lang zodat de focus niet verloren zou gaan.<br>Het feit dat de bovenste piramide kleiner is dan de onderste en een kwartslag gedraaid staat ten opzichte van de onderste piramide, maakt dat het een abstract ontwerp is. Daarbij komen nog eens de grote vinnen links en rechts van de piramides en het vormt een strak en abstract geheel.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1026,7 +1026,7 @@
             "paddingBottom": "0",
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p>Door onze definitieve vorm in maquette op schaal 1:5 en 1:10 te maken, konden we ons het ontwerp beter visualiseren. We zouden de zandloper zo maken dat hij kon omgedraaid worden. Dit idee lieten we al snel vallen omdat de grootte van het object dit niet zou toelaten.</p><p><br></p><p>Met een papieren koker testten we hoeveel zand er door de opening van de bovenste piramide mocht vallen. Uiteindelijk werd dit een opening van ongeveer 5 milimeter.</p></blockquote>"
+          "text": "<blockquote><p>Door onze definitieve vorm in maquette op schaal 1:5 en 1:10 te maken, konden we het ontwerp beter visualiseren. We zouden de zandloper zo maken dat hij kon omgedraaid worden. Dit idee lieten we al snel vallen omdat de grootte van het object dit niet zou toelaten.</p><p><br></p><p>Met een papieren koker testten we hoe veel zand er door de opening van de bovenste piramide mocht vallen. Uiteindelijk werd dit een opening van ongeveer 5 milimeter.</p></blockquote>"
         },
         {
           "_inherit": "gallery1",
@@ -1441,7 +1441,7 @@
             "paddingBottom": "3",
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p>De feestdagen waren gepasseerd en het werd tijd voor de assemblage van ons multidisciplinair object. Ellen had de onderdelen om de piramides te bouwen vervoerd naar huis om bij haar in de garage te verlijmen. Het team sprak maandagochtend af om 9 uur stipt. We startten meteen met de grote piramide omdat deze een grondvlak heeft en dit makkelijker werken was. Eens in elkaar kreeg de piramide de tijd om te drogen en kreeg de kleine piramide ook vorm. Beide piramides werden met tape op hun plaats gehouden zodat de platen niet konden verschuiven tijdens het droogproces. Een 10-tal minuten later werd de grote piramide bijgewerkt en geperfectioneerd met houtvoegmiddel. Dit had ook zijn tijd nodig om te drogen. </p><p><br></p><p>Diezelfde dag trokken we naar het kot van Ellen in Antwerpen om de vinnen die de piramides zouden ondersteunen, te lijmen. We hebben deze telkens in tweevoud laten verzagen zodat we ze op elkaar konden lijmen voor extra stevigheid. Hierdoor zou het geheel beter gestabiliseerd worden wanneer het object zou rechtstaan. Eens gedaan ondervonden we problemen met de breedte van de deuren. Ons werk zou hier niet door kunnen. Daarom vervoerden we de vinnen naar Amber haar studentenkamer dat zich op de eerste etage bevindt. \n</p><p><br></p><p>We keerden terug naar Boechout en Ellen haar garage. Het vulmiddel had ondertussen de tijd gekregen om uit te harden. We zetten de lichtgrijze primerlaag op de piramides zodat deze de volle 20 uur kon opdrogen en de piramides klaar waren om twee dagen later vervoerd te kunnen worden naar Antwerpen.</p><p><br></p></blockquote>"
+          "text": "<blockquote><p>De feestdagen waren gepasseerd en het werd tijd voor de assemblage van ons multidisciplinair object. Ellen had de onderdelen om de piramides te bouwen vervoerd naar huis om bij haar in de garage te verlijmen. Het team sprak maandagochtend af om 9 uur stipt. We startten meteen met de grote piramide omdat deze een grondvlak heeft en dit makkelijker werken was. Eens in elkaar kreeg de piramide de tijd om te drogen en kreeg de kleine piramide ook vorm. Beide piramides werden met tape op hun plaats gehouden zodat de platen niet konden verschuiven tijdens het droogproces. Een 10-tal minuten later werd de grote piramide bijgewerkt en geperfectioneerd met houtvoegmiddel. Dit had ook zijn tijd nodig om te drogen. </p><p><br></p><p>Diezelfde dag trokken we naar het kot van Ellen in Antwerpen om de vinnen die de piramides zouden ondersteunen, te lijmen. We hebben deze telkens in tweevoud laten verzagen zodat we ze op elkaar konden lijmen voor extra stevigheid. Hierdoor zou het geheel beter gestabiliseerd worden wanneer het object zou rechtstaan. Eens gedaan ondervonden we problemen met de breedte van de deuren. Ons uiteindelijk werk zou hier niet door kunnen. Daarom vervoerden we de vinnen naar Amber haar studentenkamer.</p><p><br></p><p>We keerden terug naar Boechout en Ellen haar garage. Het vulmiddel had ondertussen de tijd gekregen om uit te harden. We zetten de lichtgrijze primerlaag op de piramides zodat deze de volle 20 uur kon opdrogen. Twee dagen later konden ze vervoerd worden naar Antwerpen.</p><p><br></p></blockquote>"
         },
         {
           "_inherit": "gallery1",
@@ -1610,7 +1610,7 @@
             "paddingBottom": "3",
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p>Na een volle 48 uur drogen konden de piramides en vinnen in elkaar gezet worden. Eerst werden er in de piramides gaten geboord om het zand in op te vangen en door te laten lopen. Hierna werd het frame in elkaar gezet en onder de grote piramide geplaatst. Dan was het tijd om de vinnen tegen de piramides te plaatsen. Dit verliep echter niet zoals gepland. Het lijmen was verloren moeite, dus zijn we opnieuw naar een doe-het-zelf zaak gegaan en hebben we pianoscharnieren gekocht. Door deze op twee overstaande zijden van de onderste piramide te schroeven, kregen we extra stevigheid. De vinnen werden op de andere kant van het pianoscharnier geschroefd en met wat behulp van tec7 bekwamen we de stevigheid die we wouden.</p></blockquote>"
+          "text": "<blockquote><p>Na het droogproces konden de piramides en vinnen in elkaar gezet worden. Eerst werden er in de piramides gaten geboord om het zand in op te vangen en door te laten lopen. Hierna werd het draagframe in elkaar gezet en onder de grote piramide geplaatst. Dan was het tijd om de vinnen tegen de piramides te plaatsen. Dit verliep echter niet zoals gepland. Het lijmen was verloren moeite, dus zijn we opnieuw naar een doe-het-zelf zaak gegaan en hebben we pianoscharnieren gekocht. Door deze op twee overstaande zijden van de onderste piramide te schroeven, kregen we extra stevigheid. De vinnen werden op de andere kant van het pianoscharnier geschroefd en met wat behulp van tec7 bekwamen we de stevigheid die we wilden.</p></blockquote>"
         },
         {
           "_tags": [
@@ -1768,7 +1768,7 @@
             "paddingBottom": "3",
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p>Twee dagen later was het tijd voor de final touch. De kleinste piramide werd in het verstek van de vleugels geschoven. Dit paste niet van de eerste keer en met wat bijwerking en opvulling van spleten was het object schildersklaar.</p><p><br></p><p>Na een lang werkproces van ‘trial and error’ en het zoeken naar mogelijke oplossingen voor de problemen die te voorschijn kwamen, was het eindelijk tijd om het object zijn laatste kleur te geven. Door het object in het zwart te verven, geeft het een imposante indruk. Niemand kan er om heen en iedereen heeft het zeker en vast zien staan.</p></blockquote>"
+          "text": "<blockquote><p>Twee dagen later was het tijd voor de final touch. De kleinste piramide werd in het verstek van de vleugels geschoven. Dit paste niet van de eerste keer en met wat bijwerking en opvulling van spleten was het object schilderklaar.</p><p><br></p><p>Na een lang werkproces van ‘trial and error’ en het zoeken naar mogelijke oplossingen voor de problemen die te voorschijn kwamen, was het eindelijk tijd om het object zijn laatste kleur te geven. Door het object in het zwart te verven, geeft het een imposante indruk. Niemand kan er om heen en iedereen ziet het zeker en vast staan.</p></blockquote>"
         },
         {
           "_inherit": "gallery1",
@@ -1849,7 +1849,26 @@
             "paddingBottom": "0",
             "bgColor": "#212121"
           },
-          "text": "<p><b>Film over het werkproces</b></p>"
+          "text": "<p><b>Film: werkproces&nbsp;</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content1-81",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#212121"
+          },
+          "text": "<p>klik op hd voor de beste kwaliteit.</p>"
         },
         {
           "_tags": [
@@ -1924,7 +1943,7 @@
             "paddingBottom": "3",
             "bgColor": "#212121"
           },
-          "text": "<blockquote>x</blockquote>"
+          "text": "<blockquote><p>Tijd kan je niet vangen en is niet tastbaar. Toch heeft men tijd in een object willen omzetten, namelijk een zandloper. Deze heeft oneindig veel tijd, kan je vastnemen en kan je zien. Het is een afgemeten hoeveelheid tijd in de vorm van zand dat gevangen zit in een object. Je draait de zandloper zo vaak om als je wilt en je krijgt het idee controle te hebben over de tijd.\n</p><p><br></p><p>Dit bekijken wij met een kritische blik.<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Tijd zal in zekere zin voor eeuwig doorgaan. Voor de mens daarentegen is tijd vergankelijk, onze zandloper zal dan ook nooit omgedraaid worden. We kunnen de tijd niet terugdraaien en we kunnen dezelfde ervaring nooit twee keer op exact dezelfde manier beleven. </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zand dat uit de bovenste piramide valt en al dan niet opgevangen wordt, is hier een metafoor voor. Het zand dat in de piramide valt, kan er niet meer uit en toont de vergankelijkheid aan. Het zand dat over de piramide stroomt, is onbruikbaar. Is dit verspilling van tijd?</span></p><p>\n</p><p><br></p><p>Hoeveel tijd hebben we nog? Dit kunnen we niet weten. We zien enkel de tijd voorbij gaan. Voor de ene gaat dit snel, voor de andere voelt dit traag aan. Wachten we tot de zandloper leeg is? Of gaan we verder? De vraag is: Wat doen we als de tijd stopt? \n</p></blockquote>"
         },
         {
           "_tags": [
@@ -1938,10 +1957,10 @@
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "0",
             "paddingBottom": "2",
-            "timeout": "4",
+            "timeout": "5",
             "slides": [
               {
                 "active": false,
@@ -2011,6 +2030,43 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-82",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#212121"
+          },
+          "text": "<p><b>Film: resultaat</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "content1-80",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#212121"
+          },
+          "text": "<p>klik op hd voor de beste kwaliteit.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "image2",
           "_anchor": "image2-7y",
           "_params": {
@@ -2056,7 +2112,7 @@
             "overlayOpacity": "1",
             "overlayColor": "#212121"
           },
-          "text": "Copyright (c) 2017 Arne Peeters, Amber Lippens, Suyin Francois, Ellen Verhaegen."
+          "text": "Copyright (c) 2017 Amber Lippens, Arne Peeters, Ellen Verhaegen, Suyin Francois."
         }
       ]
     },
@@ -2086,10 +2142,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2131,7 +2187,7 @@
           "_anchor": "menu-2d",
           "_params": {
             "bgColor": "#212121",
-            "fontSize": "1.1",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -2161,7 +2217,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Groep6</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#form1-6r\">Contact</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#msg-box8-6o\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-6w\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-6j\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#form1-6r\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#msg-box8-6o\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-6w\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#header3-7q\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2290,7 +2346,7 @@
           },
           "title3": "ELLEN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Ellen is een perfectionist, ze heeft alles graag tot in het detail verzorgd en is heel nauwkeurig. Fotograferen en lay-outen is het liefste wat ze doet, ze is hier heel erg sterk in. Ellen vindt de mening van iemand anders even belangrijk als haar eigen mening en zal altijd rekening houden met anderen.",
+          "caption3": "Ellen is een perfectionist, ze heeft alles graag tot in het detail verzorgd en is heel nauwkeurig. Fotograferen en lay-outen is het liefste wat ze doet, ze is hier erg sterk in. Ellen vindt de mening van iemand anders even belangrijk als haar eigen mening en zal altijd rekening houden met anderen.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -2422,7 +2478,7 @@
             "overlayOpacity": "1",
             "overlayColor": "#212121"
           },
-          "text": "Copyright (c) 2017 Arne Peeters, Amber Lippens, Suyin Francois, Ellen Verhaegen."
+          "text": "Copyright (c) 2017 Amber Lippens, Arne Peeters, Ellen Verhaegen, Suyin Francois."
         }
       ]
     },
@@ -2452,10 +2508,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2497,7 +2553,7 @@
           "_anchor": "menu-v",
           "_params": {
             "bgColor": "#212121",
-            "fontSize": "1.1",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -2532,7 +2588,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Groep6</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#form1-6r\">Contact</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#msg-box8-6o\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-6w\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#slider3-6j\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html\">STARTPAGINA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMATIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html\">Over ons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#form1-6r\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html\">Werkstuk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voor.html#header3-56\">Mindmaps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.pinterest.com/arne002/m10/\" target=\"_blank\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span>moodboard</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#msg-box8-6o\">CONCEPT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"werkproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-57\">Ideeënproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"start.html#msg-box8-6w\">Werkproces</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"start.html#header3-7q\" aria-expanded=\"false\">RESULTAAT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2554,7 +2610,7 @@
             "overlayOpacity": "1",
             "overlayColor": "#212121"
           },
-          "text": "Copyright (c) 2017 Arne Peeters, Amber Lippens, Suyin Francois, Ellen Verhaegen."
+          "text": "Copyright (c) 2017 Amber Lippens, Arne Peeters, Ellen Verhaegen, Suyin Francois."
         },
         {
           "_styles": {
@@ -2646,7 +2702,7 @@
             "paddingBottom": "3",
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p>Tijdens het vooronderzoek werden er verschillende lezingen georganiseerd om de nieuwe casestudie te duiden. Uit deze lezingen konden we inspiratie halen voor ons ontwerp. De gastlezing van Ellen Pil was zeer interessant, alsook de lezingen van Renato Nicolodi en Leo Vranken die een soort van inspiratiebron waren voor ons. </p><p>Ook was het de bedoeling om zelf al eens op zoek te gaan naar verschillende cross-overs. Wij kozen voor Iris Van Herpen en Do Ho Suh, meer bepaald zijn tentoonstelling “meaning of home”. Voor deze expositie maakte hij meubels in stof. &nbsp;</p><p><br></p><p>Het zijn stuk voor stuk kunstenaars die exposeren en ook raken met het domein van interieurarchitectuur.  Door deze personen aan het woord te horen en te onderzoeken, werd de opdracht duidelijker en konden we zelf aan de slag gaan met brainstormen.&nbsp;</p></blockquote>"
+          "text": "<blockquote><p>Tijdens het vooronderzoek werden er verschillende lezingen georganiseerd om de nieuwe casestudie te duiden. Uit deze lezingen konden we inspiratie halen voor ons ontwerp. De gastlezing van Ellen Pil was zeer interessant, alsook de lezingen van Renato Nicolodi en Leo Vranken die een soort van inspiratiebron waren voor ons. </p><p>Ook was het de bedoeling om zelf al eens op zoek te gaan naar verschillende cross-overs. Wij kozen voor Iris Van Herpen, modeontwerpster, en Do Ho Suh, meer bepaald zijn tentoonstelling “meaning of home”. Voor deze expositie maakte hij meubels in stof. &nbsp;</p><p><br></p><p>Het zijn stuk voor stuk kunstenaars die exposeren en ook raken met het domein van interieurarchitectuur.  Door deze personen aan het woord te horen en te onderzoeken, werd de opdracht duidelijker en konden we zelf aan de slag gaan met brainstormen.&nbsp;</p></blockquote>"
         },
         {
           "_tags": [
@@ -2790,7 +2846,7 @@
             "paddingBottom": "3",
             "bgColor": "#212121"
           },
-          "text": "<blockquote><p><i>Mindmap 1</i></p><p>\nVoor we het ontwerpproces konden starten, moesten we zoeken naar welke disciplines er zoal bestaan en welke verbanden ze eventueel hebben met elkaar. Door te brainstormen kwamen al snel drie overkoepelende disciplines of denkvelden naar voren, namelijk: wetenschap, milieu en lifestyle. Er waren een heleboel disciplines waar we de voor ons interessante onderwerpen uit konden halen. Zo zijn we dan ook tussen deze disciplines verbanden gaan leggen. </p><p> \n\n</p><p><br></p><p><i>Mindmap 2</i></p><p>Na de algemene brainstorms bleek dat er drie begrippen uitsprongen, namelijk: experiment, denkwijze, maatschappij en kunst. We zijn dan met deze termen verder aan de slag gegaan en hebben de betekenis erachter verder uitgediept. Zo kwamen we uiteindelijk bij keuzemogelijkheden, manipulatie en tijd dat ook een belangrijk gegeven is in onze maatschappij.\n</p><p>\n</p><p><br></p><p><i>Mindmap 3 &nbsp;</i></p><p>In deze mindmap zijn we vooral de term 'keuze' gaan uitdiepen en dan vooral in welke mate keuzes de mensen en de maatschappij beïnvloeden. We zijn gaan onderzoeken hoe door een bepaald experiment of het al dan niet hebben van mogelijkheden of keuzes, we de denkpistes of handelingen van mensen kunnen manipuleren. Zo kwamen we erbij dat het psychologische aspect een zeer belangrijke rol kan spelen. Door een juiste keuze van thema of vormentaal kunnen we de toeschouwer sterk beïnvloeden. \n</p></blockquote>"
+          "text": "<blockquote><p><i>Mindmap 1</i></p><p>\nVoor we het ontwerpproces konden starten, moesten we zoeken naar welke disciplines er zoal bestaan en welke verbanden ze eventueel hebben met elkaar. Door te brainstormen kwamen al snel drie overkoepelende disciplines of denkvelden naar voren, namelijk: wetenschap, milieu en lifestyle. Er waren een heleboel disciplines waar we de voor ons interessante onderwerpen uit konden halen. Zo zijn we dan ook tussen deze disciplines verbanden gaan leggen. </p><p> \n\n</p><p><br></p><p><i>Mindmap 2</i></p><p>Na de algemene brainstorms bleek dat er vijf begrippen uitsprongen, namelijk: experiment, denkwijze, media, maatschappij en kunst. We zijn dan met deze termen verder aan de slag gegaan en hebben de betekenis erachter verder uitgediept. Zo kwamen we uiteindelijk bij keuzemogelijkheden, manipulatie en tijd. Dit laatste is ook een belangrijk gegeven in onze maatschappij.\n</p><p>\n</p><p><br></p><p><i>Mindmap 3 &nbsp;</i></p><p>In deze mindmap zijn we de term 'keuze' gaan uitdiepen en dan vooral in welke mate keuzes de mensen en de maatschappij beïnvloeden. We zijn gaan onderzoeken hoe we door een bepaald experiment, het al dan niet hebben van mogelijkheden of keuzes, de denkpistes of handelingen van mensen kunnen manipuleren. Zo concludeerden we dat het psychologische aspect een zeer belangrijke rol kan spelen. Door een juiste keuze van thema of vormentaal kunnen we de toeschouwer sterk beïnvloeden. \n</p></blockquote>"
         },
         {
           "_inherit": "gallery1",
